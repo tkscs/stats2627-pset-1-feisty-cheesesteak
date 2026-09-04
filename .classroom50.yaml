@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "stats2627"
+assignment: "pset-1"
+owner:
+  username: "feisty-cheesesteak"
+  id: 317772743
+  accepted_at: "2026-09-04T18:32:20Z"
+source:
+  owner: "tkscs"
+  owner_id: 215133286
+  repo: "stats_pset1"
+  branch: "main"
